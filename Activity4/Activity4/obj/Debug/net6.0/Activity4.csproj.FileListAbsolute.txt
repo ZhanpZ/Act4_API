@@ -1,0 +1,15 @@
+C:\Users\zengm\Desktop\API_Project\Activity4\Activity4\obj\Debug\net6.0\Activity4.csproj.AssemblyReference.cache
+C:\Users\zengm\Desktop\API_Project\Activity4\Activity4\obj\Debug\net6.0\Activity4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zengm\Desktop\API_Project\Activity4\Activity4\obj\Debug\net6.0\Activity4.AssemblyInfoInputs.cache
+C:\Users\zengm\Desktop\API_Project\Activity4\Activity4\obj\Debug\net6.0\Activity4.AssemblyInfo.cs
+C:\Users\zengm\Desktop\API_Project\Activity4\Activity4\obj\Debug\net6.0\Activity4.csproj.CoreCompileInputs.cache
+C:\Users\zengm\Desktop\API_Project\Activity4\Activity4\bin\Debug\net6.0\Activity4.exe
+C:\Users\zengm\Desktop\API_Project\Activity4\Activity4\bin\Debug\net6.0\Activity4.deps.json
+C:\Users\zengm\Desktop\API_Project\Activity4\Activity4\bin\Debug\net6.0\Activity4.runtimeconfig.json
+C:\Users\zengm\Desktop\API_Project\Activity4\Activity4\bin\Debug\net6.0\Activity4.dll
+C:\Users\zengm\Desktop\API_Project\Activity4\Activity4\bin\Debug\net6.0\Activity4.pdb
+C:\Users\zengm\Desktop\API_Project\Activity4\Activity4\obj\Debug\net6.0\Activity4.dll
+C:\Users\zengm\Desktop\API_Project\Activity4\Activity4\obj\Debug\net6.0\refint\Activity4.dll
+C:\Users\zengm\Desktop\API_Project\Activity4\Activity4\obj\Debug\net6.0\Activity4.pdb
+C:\Users\zengm\Desktop\API_Project\Activity4\Activity4\obj\Debug\net6.0\Activity4.genruntimeconfig.cache
+C:\Users\zengm\Desktop\API_Project\Activity4\Activity4\obj\Debug\net6.0\ref\Activity4.dll
